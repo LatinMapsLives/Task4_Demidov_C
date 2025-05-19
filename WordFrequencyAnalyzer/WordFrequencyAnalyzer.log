@@ -1,0 +1,165 @@
+[2025-05-18 22:47:20] [INFO] Application started
+[2025-05-18 22:48:32] [INFO] Starting analysis...
+[2025-05-18 22:48:32] [INFO] Loading keywords from: C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\keywords.txt
+[2025-05-18 22:48:32] [INFO] Loaded 5 keywords
+[2025-05-18 22:48:32] [INFO] Loading text file: C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\input.txt
+[2025-05-18 22:48:32] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:48:32] [INFO] Analyzing text...
+[2025-05-18 22:48:32] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:48:32] [INFO] Saving results to: C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\output.txt
+[2025-05-18 22:48:32] [INFO] Results saved successfully
+[2025-05-18 22:48:34] [INFO] Analysis completed successfully
+[2025-05-18 22:48:38] [INFO] Application closed
+[2025-05-18 22:49:22] [INFO] Application started
+[2025-05-18 22:49:32] [INFO] Starting analysis...
+[2025-05-18 22:49:32] [INFO] Loading keywords from: C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\keywords.txt
+[2025-05-18 22:49:32] [INFO] Loaded 5 keywords
+[2025-05-18 22:49:32] [INFO] Loading text file: C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\input.txt
+[2025-05-18 22:49:32] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:49:32] [INFO] Analyzing text...
+[2025-05-18 22:49:32] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:49:32] [INFO] Saving results to: C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\output.txt
+[2025-05-18 22:49:32] [INFO] Results saved successfully
+[2025-05-18 22:49:33] [INFO] Analysis completed successfully
+[2025-05-18 22:51:38] [INFO] Application closed
+[2025-05-18 22:52:32] [INFO] Application started
+[2025-05-18 22:52:34] [INFO] Starting analysis...
+[2025-05-18 22:52:34] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:52:34] [INFO] Loaded 5 keywords
+[2025-05-18 22:52:34] [INFO] Loading text file: input.txt
+[2025-05-18 22:52:34] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:52:34] [INFO] Analyzing text...
+[2025-05-18 22:52:34] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:52:34] [INFO] Saving results to: output.txt
+[2025-05-18 22:52:34] [INFO] Results saved successfully
+[2025-05-18 22:52:35] [INFO] Analysis completed successfully
+[2025-05-18 22:52:36] [INFO] Starting analysis...
+[2025-05-18 22:52:36] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:52:36] [INFO] Loaded 5 keywords
+[2025-05-18 22:52:36] [INFO] Loading text file: input.txt
+[2025-05-18 22:52:36] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:52:36] [INFO] Analyzing text...
+[2025-05-18 22:52:36] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:52:36] [INFO] Saving results to: output.txt
+[2025-05-18 22:52:36] [INFO] Results saved successfully
+[2025-05-18 22:52:37] [INFO] Analysis completed successfully
+[2025-05-18 22:52:39] [INFO] Starting analysis...
+[2025-05-18 22:52:39] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:52:39] [INFO] Loaded 5 keywords
+[2025-05-18 22:52:39] [INFO] Loading text file: inpu143t.txt
+[2025-05-18 22:52:39] [ERROR] Failed to open text file: inpu143t.txt
+[2025-05-18 22:52:40] [ERROR] Error during analysis: Failed to open text file: inpu143t.txt
+[2025-05-18 22:52:43] [INFO] Starting analysis...
+[2025-05-18 22:52:43] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:52:43] [INFO] Loaded 5 keywords
+[2025-05-18 22:52:43] [INFO] Loading text file: inpu143t.txt
+[2025-05-18 22:52:43] [ERROR] Failed to open text file: inpu143t.txt
+[2025-05-18 22:52:45] [ERROR] Error during analysis: Failed to open text file: inpu143t.txt
+[2025-05-18 22:52:51] [INFO] Starting analysis...
+[2025-05-18 22:52:51] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:52:51] [INFO] Loaded 5 keywords
+[2025-05-18 22:52:51] [INFO] Loading text file: input.txt
+[2025-05-18 22:52:51] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:52:51] [INFO] Analyzing text...
+[2025-05-18 22:52:51] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:52:51] [INFO] Saving results to: output.tx134t
+[2025-05-18 22:52:51] [INFO] Results saved successfully
+[2025-05-18 22:52:52] [INFO] Analysis completed successfully
+[2025-05-18 22:53:05] [INFO] Application closed
+[2025-05-18 22:53:49] [INFO] Application started
+[2025-05-18 22:53:52] [INFO] Starting analysis...
+[2025-05-18 22:53:52] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:53:52] [INFO] Loaded 5 keywords
+[2025-05-18 22:53:52] [INFO] Loading text file: input.txt
+[2025-05-18 22:53:52] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:53:52] [INFO] Analyzing text...
+[2025-05-18 22:53:52] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:53:52] [INFO] Saving results to: output.txt
+[2025-05-18 22:53:52] [INFO] Results saved successfully
+[2025-05-18 22:53:56] [INFO] Analysis completed successfully
+[2025-05-18 22:54:00] [INFO] Application closed
+[2025-05-18 22:55:31] [INFO] Application started
+[2025-05-18 22:55:32] [INFO] Starting analysis...
+[2025-05-18 22:55:32] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:55:32] [INFO] Loaded 5 keywords
+[2025-05-18 22:55:32] [INFO] Loading text file: input.txt
+[2025-05-18 22:55:32] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:55:32] [INFO] Analyzing text...
+[2025-05-18 22:55:32] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:55:32] [INFO] Saving results to: output.txt
+[2025-05-18 22:55:32] [INFO] Results saved successfully
+[2025-05-18 22:55:33] [INFO] Analysis completed successfully
+[2025-05-18 22:55:34] [INFO] Application closed
+[2025-05-18 22:56:57] [INFO] Application started
+[2025-05-18 22:56:58] [INFO] Starting analysis...
+[2025-05-18 22:56:58] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:56:58] [INFO] Loaded 5 keywords
+[2025-05-18 22:56:58] [INFO] Loading text file: input.txt
+[2025-05-18 22:56:58] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:56:58] [INFO] Analyzing text...
+[2025-05-18 22:56:58] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:56:58] [INFO] Saving results to: output.txt
+[2025-05-18 22:56:58] [INFO] Results saved successfully
+[2025-05-18 22:56:59] [INFO] Analysis completed successfully
+[2025-05-18 22:57:05] [INFO] Application closed
+[2025-05-18 22:57:41] [INFO] Application started
+[2025-05-18 22:57:41] [INFO] Starting analysis...
+[2025-05-18 22:57:41] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:57:41] [INFO] Loaded 5 keywords
+[2025-05-18 22:57:41] [INFO] Loading text file: input.txt
+[2025-05-18 22:57:41] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:57:41] [INFO] Analyzing text...
+[2025-05-18 22:57:41] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:57:41] [INFO] Saving results to: output.txt
+[2025-05-18 22:57:41] [INFO] Results saved successfully
+[2025-05-18 22:57:42] [INFO] Analysis completed successfully
+[2025-05-18 22:57:56] [INFO] Starting analysis...
+[2025-05-18 22:57:56] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:57:56] [INFO] Loaded 5 keywords
+[2025-05-18 22:57:56] [INFO] Loading text file: input.txt
+[2025-05-18 22:57:56] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:57:56] [INFO] Analyzing text...
+[2025-05-18 22:57:56] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:57:56] [INFO] Saving results to: output.txt
+[2025-05-18 22:57:56] [INFO] Results saved successfully
+[2025-05-18 22:57:56] [INFO] Analysis completed successfully
+[2025-05-18 22:59:34] [INFO] Application closed
+[2025-05-18 22:59:37] [INFO] Application started
+[2025-05-18 22:59:38] [INFO] Starting analysis...
+[2025-05-18 22:59:38] [INFO] Loading keywords from: keywords.txt
+[2025-05-18 22:59:38] [INFO] Loaded 5 keywords
+[2025-05-18 22:59:38] [INFO] Loading text file: input.txt
+[2025-05-18 22:59:38] [INFO] Loaded 3 lines from text file
+[2025-05-18 22:59:38] [INFO] Analyzing text...
+[2025-05-18 22:59:38] [INFO] Found 16 unique non-keywords
+[2025-05-18 22:59:38] [INFO] Saving results to: output.txt
+[2025-05-18 22:59:38] [INFO] Results saved successfully
+[2025-05-18 22:59:39] [INFO] Analysis completed successfully
+[2025-05-18 22:59:45] [INFO] Application closed
+[2025-05-19 14:19:27] [INFO] Application started
+[2025-05-19 14:19:46] [INFO] Starting analysis...
+[2025-05-19 14:19:46] [INFO] Loading keywords from: keywords.txt
+[2025-05-19 14:19:46] [INFO] Loaded 5 keywords
+[2025-05-19 14:19:46] [INFO] Loading text file: input.txt
+[2025-05-19 14:19:46] [INFO] Loaded 3 lines from text file
+[2025-05-19 14:19:46] [INFO] Analyzing text...
+[2025-05-19 14:19:46] [INFO] Found 16 unique non-keywords
+[2025-05-19 14:19:46] [INFO] Saving results to: output.txt
+[2025-05-19 14:19:46] [INFO] Results saved successfully
+[2025-05-19 14:19:47] [INFO] Analysis completed successfully
+[2025-05-19 14:25:33] [INFO] Application closed
+[2025-05-19 14:26:49] [INFO] Application started
+[2025-05-19 14:28:40] [INFO] Application started
+[2025-05-19 14:28:42] [INFO] Starting analysis...
+[2025-05-19 14:28:42] [INFO] Loading keywords from: keywords.txt
+[2025-05-19 14:28:42] [INFO] Loaded 5 keywords
+[2025-05-19 14:28:42] [INFO] Loading text file: input.txt
+[2025-05-19 14:28:42] [INFO] Loaded 3 lines from text file
+[2025-05-19 14:28:42] [INFO] Analyzing text...
+[2025-05-19 14:28:42] [INFO] Found 16 unique non-keywords
+[2025-05-19 14:28:42] [INFO] Saving results to: output.txt
+[2025-05-19 14:28:42] [INFO] Results saved successfully
+[2025-05-19 14:28:44] [INFO] Analysis completed successfully
+[2025-05-19 14:29:36] [INFO] Application closed
+[2025-05-19 14:29:39] [INFO] Application started
+[2025-05-19 14:29:42] [INFO] Application closed

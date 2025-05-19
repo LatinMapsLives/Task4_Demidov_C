@@ -1,0 +1,3 @@
+This is a sample text file with some words.
+The words will be analyzed and the results will be saved.
+Some words are repeated multiple times.
