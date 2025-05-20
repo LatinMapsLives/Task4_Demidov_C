@@ -47,13 +47,11 @@ BOOL CWordFrequencyAnalyzerApp::InitInstance()
 	INT_PTR nResponse = dlg.DoModal();
 	if (nResponse == IDOK)
 	{
-		// TODO: Введите код для обработки закрытия диалогового окна
-		//  с помощью кнопки "ОК"
+		
 	}
 	else if (nResponse == IDCANCEL)
 	{
-		// TODO: Введите код для обработки закрытия диалогового окна
-		//  с помощью кнопки "Отмена"
+		
 	}
 	else if (nResponse == -1)
 	{

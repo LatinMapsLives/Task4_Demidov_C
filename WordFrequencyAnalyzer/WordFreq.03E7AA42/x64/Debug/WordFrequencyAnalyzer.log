@@ -1,4 +1,5 @@
-﻿  WordFrequencyAnalyzerDlg.cpp
+﻿  WordFrequencyAnalyzer.cpp
+  WordFrequencyAnalyzerDlg.cpp
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,16): warning C4267: инициализация: преобразование из "size_t" в "_Ty1"; возможна потеря данных
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,16): warning C4267:         with
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,16): warning C4267:         [
@@ -7,9 +8,9 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.3520
   (компиляция исходного файла "/WordFrequencyAnalyzerDlg.cpp")
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,16):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\WordFrequencyAnalyzerDlg.cpp(165,31):
+          C:\VGULearning\3Course\C\GitHubTest\Task4_Demidov_C\WordFrequencyAnalyzer\WordFrequencyAnalyzerDlg.cpp(165,31):
           выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<std::pair<int,int>,std::allocator<std::pair<int,int>>>::emplace_back<size_t,size_t>(size_t &&,size_t &&)"
-              C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\WordFrequencyAnalyzerDlg.cpp(165,43):
+              C:\VGULearning\3Course\C\GitHubTest\Task4_Demidov_C\WordFrequencyAnalyzer\WordFrequencyAnalyzerDlg.cpp(165,43):
               см. первую ссылку на "std::vector<std::pair<int,int>,std::allocator<std::pair<int,int>>>::emplace_back" в "CWordFrequencyAnalyzerDlg::AnalyzeText"
           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(924,24):
           выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<unsigned __int64,unsigned __int64>(unsigned __int64 &&,unsigned __int64 &&)"
@@ -45,4 +46,5 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.3520
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54): warning C4267:         ]
   (компиляция исходного файла "/WordFrequencyAnalyzerDlg.cpp")
   
-  WordFrequencyAnalyzer.vcxproj -> C:\VGULearning\3Course\C\Task4_Demidov_C\WordFrequencyAnalyzer\x64\Debug\WordFrequencyAnalyzer.exe
+  Создание кода...
+  WordFrequencyAnalyzer.vcxproj -> C:\VGULearning\3Course\C\GitHubTest\Task4_Demidov_C\WordFrequencyAnalyzer\x64\Debug\WordFrequencyAnalyzer.exe

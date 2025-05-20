@@ -163,3 +163,37 @@
 [2025-05-19 14:29:36] [INFO] Application closed
 [2025-05-19 14:29:39] [INFO] Application started
 [2025-05-19 14:29:42] [INFO] Application closed
+[2025-05-20 11:10:28] [INFO] Application started
+[2025-05-20 11:10:47] [INFO] Starting analysis...
+[2025-05-20 11:10:47] [INFO] Loading keywords from: keywords.txt
+[2025-05-20 11:10:47] [INFO] Loaded 5 keywords
+[2025-05-20 11:10:47] [INFO] Loading text file: input.txt
+[2025-05-20 11:10:47] [INFO] Loaded 3 lines from text file
+[2025-05-20 11:10:47] [INFO] Analyzing text...
+[2025-05-20 11:10:47] [INFO] Found 16 unique non-keywords
+[2025-05-20 11:10:47] [INFO] Saving results to: output.txt
+[2025-05-20 11:10:47] [INFO] Results saved successfully
+[2025-05-20 11:10:50] [INFO] Analysis completed successfully
+[2025-05-20 11:10:58] [INFO] Starting analysis...
+[2025-05-20 11:10:58] [INFO] Loading keywords from: keywords.txt
+[2025-05-20 11:10:58] [INFO] Loaded 5 keywords
+[2025-05-20 11:10:58] [INFO] Loading text file: input.txt
+[2025-05-20 11:10:58] [INFO] Loaded 3 lines from text file
+[2025-05-20 11:10:58] [INFO] Analyzing text...
+[2025-05-20 11:10:58] [INFO] Found 16 unique non-keywords
+[2025-05-20 11:10:58] [INFO] Saving results to: output.txt
+[2025-05-20 11:10:58] [INFO] Results saved successfully
+[2025-05-20 11:10:59] [INFO] Analysis completed successfully
+[2025-05-20 11:11:06] [INFO] Application closed
+[2025-05-20 11:18:39] [INFO] Application started
+[2025-05-20 11:18:41] [INFO] Starting analysis...
+[2025-05-20 11:18:41] [INFO] Loading keywords from: keywords.txt
+[2025-05-20 11:18:41] [INFO] Loaded 5 keywords
+[2025-05-20 11:18:41] [INFO] Loading text file: input.txt
+[2025-05-20 11:18:41] [INFO] Loaded 3 lines from text file
+[2025-05-20 11:18:41] [INFO] Analyzing text...
+[2025-05-20 11:18:41] [INFO] Found 16 unique non-keywords
+[2025-05-20 11:18:41] [INFO] Saving results to: output.txt
+[2025-05-20 11:18:41] [INFO] Results saved successfully
+[2025-05-20 11:18:41] [INFO] Analysis completed successfully
+[2025-05-20 11:18:42] [INFO] Application closed
